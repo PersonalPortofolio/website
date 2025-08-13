@@ -21,7 +21,7 @@ ___
 - Dynamic project showcase
 - CV download and LinkedIn link
 - Contact section
-- HTTPS-secured via TLS Certification
+- HTTPS-secured via TLS certificate (Let's Encrypt)
 - Hosted on a custom subdomain
 
 ___
